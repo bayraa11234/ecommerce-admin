@@ -1,0 +1,26 @@
+[
+  {
+    "image": "http://localhost:8000/images/productPlay.png",
+    "title": "Wireless headphones",
+    "price": "$11.70",
+    "reviews": "*****"
+  },
+  {
+    "image": "http://localhost:8000/images/productLaptop.png",
+    "title": "Wireless headphones",
+    "price": "$11.70",
+    "reviews": "*****"
+  },
+  {
+    "image": "http://localhost:8000/images/productPlay.png",
+    "title": "play game",
+    "price": "$11.70",
+    "reviews": "*****"
+  },
+  {
+    "image": "http://localhost:8000/images/productLaptop.png",
+    "title": "Wireless headphones",
+    "price": "$11.70",
+    "reviews": "*****"
+  }
+]
